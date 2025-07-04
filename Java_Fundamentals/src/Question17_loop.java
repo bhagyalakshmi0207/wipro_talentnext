@@ -7,7 +7,8 @@ public class Question17_loop {
 		int n=sc.nextInt();
 		int temp=n;
 		int sum=0;
-		for(int i=0;i<=n;i++) {
+		//for(int i=0;i<=n;i++) {
+		while(n >0) {
 			int rem = n%10;
 		    sum=sum*10+rem;
 			n=n/10;
