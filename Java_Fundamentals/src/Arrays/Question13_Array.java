@@ -6,7 +6,7 @@ public class Question13_Array {
 
 	public static void main(String[] args) {
 		Scanner sc=new Scanner(System.in);
-		System.out.println("Please enter 4 integer number's: ");
+		System.out.println("Please enter 4 integer number's Array size: ");
 		int n=sc.nextInt();
 		if(n !=4) {
 			System.out.println("Error: Please enter 4 integer number's: ");
