@@ -31,6 +31,7 @@ public class Question14_Arrays {
 				}
 			}
 		}System.out.println("Maximum: "+max);
+		sc.close();
 	}
 
 }
