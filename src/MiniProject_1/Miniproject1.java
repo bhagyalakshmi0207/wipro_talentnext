@@ -75,7 +75,7 @@ public class Miniproject1 {
 		}if(!index) {
 			System.out.println("Their is no emp id: "+id);
 		}
-		
+		sc.close();
 		
 	}
 
